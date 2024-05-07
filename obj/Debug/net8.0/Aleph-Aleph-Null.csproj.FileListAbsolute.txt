@@ -1,0 +1,4 @@
+D:\Coding\Aleph-Aleph-Null\obj\Debug\net8.0\Aleph-Aleph-Null.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aleph-Aleph-Null\obj\Debug\net8.0\Aleph-Aleph-Null.AssemblyInfoInputs.cache
+D:\Coding\Aleph-Aleph-Null\obj\Debug\net8.0\Aleph-Aleph-Null.AssemblyInfo.cs
+D:\Coding\Aleph-Aleph-Null\obj\Debug\net8.0\Aleph-Aleph-Null.csproj.CoreCompileInputs.cache
